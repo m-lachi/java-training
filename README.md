@@ -1,7 +1,7 @@
-[info]: img/icons8-info.png
-[todo]: img/icons8-zahnrad.png
+[info]: docs/img/icons8-info.png
+[todo]: docs/img/icons8-zahnrad.png
 
-![info] Learn [how to use](HOWTO.md) this project
+![info] Learn [how to use](docs/HOWTO.md) this project
 
 ----
 
