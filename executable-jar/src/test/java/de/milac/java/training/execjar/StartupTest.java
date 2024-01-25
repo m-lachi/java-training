@@ -1,4 +1,4 @@
-package de.milac.javatraining.execjar;
+package de.milac.java.training.execjar;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
