@@ -1,11 +1,14 @@
 ### Java 8 features Overview
+
 * https://www.oracle.com/java/technologies/javase/8-whats-new.html
 * https://www.baeldung.com/java-8-new-features
 
 ### Interface default and static methods
+
 * https://www.baeldung.com/java-static-default-methods
 
 ### Method parameter reflection
+
 * https://www.baeldung.com/java-parameter-reflection
 
 ### Stream API
@@ -13,12 +16,13 @@
 ### Lambda expressions, Method references, Functional interfaces
 
 ### New Date/Time API
+
 * https://docs.oracle.com/javase/tutorial/datetime/TOC.html
 * https://www.baeldung.com/java-8-date-time-intro
 * https://www.baeldung.com/migrating-to-java-8-date-time-api
 
-
 ### Other features
+
 * Repeating annotations  
   https://docs.oracle.com/javase/tutorial/java/annotations/repeating.html
 * Type annotations  
